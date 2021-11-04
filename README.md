@@ -9,3 +9,6 @@ You can run this project directly from my profile page by navigating to dylanave
 ## Future Improvements
 A later version of this project will include a mechanism for disabling the tracking motion of the eyes and a mechanism to allow the user to add more eyes.
 
+## License Information
+This project uses the MIT License.
+
